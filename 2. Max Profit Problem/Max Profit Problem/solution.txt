@@ -78,6 +78,8 @@ ii) PUB:
    givenTime > establishment build time
    no of pubs built within givenTime = 8 / 4 = 2
    building operational time = 8 - 4 = 4
+                             = 4 - 4 = 0
+   total operational time = 4 + 0 = 4                         
    actual earning = 4 * 1000 = 4000
         ---> Here actual earning != givenEarning  
 
